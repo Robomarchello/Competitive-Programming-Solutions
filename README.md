@@ -13,9 +13,9 @@
 
 | № | Problem | Result | Website Link |
 |------------|--------------|--------|--------------|
-| А          | [Підкови](Competitive-Programming-Solutions/blob/master/oblasna_olimpiada_2024/A.py)    | $${\color{green}Accepted}$$| Unavailable? |
-| B          | [Поділ пасовища](Competitive-Programming-Solutions/blob/master/oblasna_olimpiada_2024/B.py) | $${\color{green}Accepted}$$| Unavailable? |
-| C          | [Упорядкуй коней](Competitive-Programming-Solutions/blob/master/oblasna_olimpiada_2024/C.py) | $${\color{green}Accepted}$$ | Unavailable? 
-| D          | [Стайня](Competitive-Programming-Solutions/blob/master/oblasna_olimpiada_2024/D.py) | $${\color{red}Score: 13 \ (TimeLimit)}$$ | Unavailable? 
+| А          | [Підкови](Competitive-Programming-Solutions/blob/master/oblasna_olimpiada_2024/A.py)    | $${\color{green}Accepted}$$| [Algotester](https://algotester.com/uk/ArchiveProblem/DisplayWithEditor/71033) |
+| B          | [Поділ пасовища](Competitive-Programming-Solutions/blob/master/oblasna_olimpiada_2024/B.py) | $${\color{green}Accepted}$$| [Algotester](https://algotester.com/uk/ArchiveProblem/DisplayWithEditor/71034) |
+| C          | [Упорядкуй коней](Competitive-Programming-Solutions/blob/master/oblasna_olimpiada_2024/C.py) | $${\color{green}Accepted}$$ | [Algotester](https://algotester.com/uk/ArchiveProblem/DisplayWithEditor/71035) 
+| D          | [Стайня](Competitive-Programming-Solutions/blob/master/oblasna_olimpiada_2024/D.py) | $${\color{red}Score: 13 \ (TimeLimit)}$$ | [Algotester](https://algotester.com/uk/ArchiveProblem/DisplayWithEditor/71036) 
 
 I was trying to solve D, this is not optimal solution, it solves one block (n≤1000, q≤1000). I didn't even look at problems E, F, G because was running out of time lol
